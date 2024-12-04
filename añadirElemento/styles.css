@@ -1,0 +1,43 @@
+* {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  padding: 1rem;
+  background-color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+input {
+  background-color: bisque;
+  font-family: "Courier New", Courier, monospace;
+}
+
+ul,
+li,
+h1 {
+  color: white;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  margin-top: 10px;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
